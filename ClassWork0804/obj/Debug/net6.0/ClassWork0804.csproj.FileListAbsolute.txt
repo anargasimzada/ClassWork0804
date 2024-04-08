@@ -1,0 +1,15 @@
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.csproj.AssemblyReference.cache
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.AssemblyInfoInputs.cache
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.AssemblyInfo.cs
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\bin\Debug\net6.0\ClassWork0804.exe
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\bin\Debug\net6.0\ClassWork0804.deps.json
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\bin\Debug\net6.0\ClassWork0804.runtimeconfig.json
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\bin\Debug\net6.0\ClassWork0804.dll
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\bin\Debug\net6.0\ClassWork0804.pdb
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.dll
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\refint\ClassWork0804.dll
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.pdb
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ClassWork0804.genruntimeconfig.cache
+C:\Users\ca.r214.02\Desktop\AB106\ClassWork0804\ClassWork0804\obj\Debug\net6.0\ref\ClassWork0804.dll
